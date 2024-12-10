@@ -11,7 +11,7 @@
 
 ### 1. Video
 
-https://youtu.be/atmALwS_LIU
+[Link to Video](https://youtu.be/atmALwS_LIU)
 
 ### 2. Images
 
