@@ -4,7 +4,7 @@
 * Team Name: Embedded Mice
 * Team Members: Sitong Li, Andy Xiao, Xinyuan Cui
 * Github Repository URL: https://github.com/upenn-embedded/final-project-embedded-mice.git 
-* Github Pages Website URL: https://andyxiao000github.io 
+* Github Pages Website URL: https://andyxiao000.github.io 
 * Description of hardware: Ultrasonic range sensor, servo motor, infrared/ambient light range sensor, LCD display module, Atgema328PB mini.
 
 ## Final Project Report
